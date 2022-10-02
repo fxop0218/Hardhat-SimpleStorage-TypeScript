@@ -15,6 +15,7 @@ npx hardhat run scripts/deploy.ts
 yarn hardhat typechain  
 
 #### TS Shell imports
+```
 yarn add @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript 
 yarn add --dev @nomiclabs/hardhat-ethers "ethers@^5.0.0"
 yarn add --dev @nomicfoundation/hardhat-toolbox
@@ -23,3 +24,4 @@ yarn add --dev @nomiclabs/hardhat-etherscan
 yarn add solidity-coverage
 yarn add hardhat-gas-reporter
 yarn add @nomiclabs/hardhat-waffle
+```
